@@ -1,1 +1,12 @@
-# TB-Recurrence
+# TB Recurrence
+As a respiratory infectious disease, Tuberculosis(TB) has the ability to affect anyone who breath. 
+The recurrence of TB not only threatens cured TB patients, but also add up to the burdern of drug-resistant TB. 
+Assessing the incidence of recurrent TB and figure out what factors prompt this process are the main aim of this study.
+
+## Data source
+- 9 Provinces in China
+- 16 insitutues including hospitals, CDCs
+- 7 years of follow up
+
+## Methods
+Recurrence mearsured in whole and also divided by various treatment groups.
