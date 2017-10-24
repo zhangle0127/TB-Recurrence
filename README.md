@@ -10,3 +10,5 @@ Assessing the incidence of recurrent TB and figure out what factors prompt this 
 
 ## Methods
 Recurrence mearsured in whole and also divided by various treatment groups.
+Using random forest model, support vector machine, logistic regression to classify recurrent patients.
+SMOTE(Synthetic Minority Over-sampling Technique) for processing unbalanced data
