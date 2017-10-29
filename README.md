@@ -8,9 +8,9 @@ Assessing the incidence of recurrent TB and figure out what factors prompt this 
 - 7 years of follow up
 
 ## Methods
-Recurrence mearsured in whole and also divided by various treatment groups.
-Using random forest model, support vector machine, logistic regression to classify recurrent patients.
-SMOTE(Synthetic Minority Over-sampling Technique) for processing unbalanced data
+- Recurrence mearsured in whole and also divided by various treatment groups.
+- Using random forest model, support vector machine, logistic regression to classify recurrent patients.
+- SMOTE(Synthetic Minority Over-sampling Technique) for processing unbalanced data.
 
 ## Results
 - Treatment outcomes by 4 treatment groups
