@@ -13,6 +13,6 @@ Assessing the incidence of recurrent TB and figure out what factors prompt this 
 - SMOTE(Synthetic Minority Over-sampling Technique) for processing unbalanced data.
 
 ## Results
-- Treatment outcomes by 4 treatment groups
-- Recurrence Rate
+- Treatment outcomes by 4 medication groups
+- Recurrence Rate in 7 years
 - Factors associated with tuberculosis recurrence 
